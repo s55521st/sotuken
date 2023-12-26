@@ -1,5 +1,9 @@
 # 卒研
 
+メインファイル：cpu.py
+データセット：Othello.01e4.ggf
+cpu.pyの実行に必要なライブラリ：requirements.txt
+
 参考文献
 1.	ニューラルネットワークの仕組み｜chapter1,深層学習
 https://www.youtube.com/watch?v=tc8RTtwvd5U
